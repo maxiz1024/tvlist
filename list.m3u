@@ -633,21 +633,23 @@ https://live4.tdm.com.mo/tv/_definst_/ch21.live/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 
 #广播#
-#EXTINF:-1 tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025486781.jpg" radio="true",央广中国之声
+#EXTINF:-1 tvg-name="CNR中国之声" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025486781.jpg" radio="true",CNR中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png" radio="true",央广经济之声
+#EXTINF:-1 tvg-name="CNR经济之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png" radio="true",CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" radio="true",央广音乐之声
+#EXTINF:-1 tvg-name="CNR音乐之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" radio="true",CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png" radio="true",央广经典音乐广播
+#EXTINF:-1 tvg-name="CNR经典音乐广播" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png" radio="true",CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025614670.jpg" radio="true",央广中华之声
+#EXTINF:-1 tvg-name="CNR中华之声" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025614670.jpg" radio="true",CNR中华之声
 http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.radio.cn/img/default/2015/1/19/1421636782910.jpg" radio="true",央广中国乡村之声
+#EXTINF:-1 tvg-name="CNR中国乡村之声" tvg-logo="http://www.radio.cn/img/default/2015/1/19/1421636782910.jpg" radio="true",CNR中国乡村之声
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025674178.jpg" radio="true",央广文艺之声
+#EXTINF:-1 tvg-name="CNR文艺之声" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025674178.jpg" radio="true",CNR文艺之声
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191015/1571132054820.png" radio="true",央广阅读之声
+#EXTINF:-1 tvg-name="CNR阅读之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191015/1571132054820.png" radio="true",CNR阅读之声
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg" radio="true",CRI南海之声
+#EXTINF:-1 tvg-name="CRI南海之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg" radio="true",CRI南海之声
 http://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
+#EXTINF:-1 tvg-name="CMG大湾区之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190830/1567159925260.png" radio="true",CMG大湾区之声
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
