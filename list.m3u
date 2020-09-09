@@ -653,7 +653,7 @@ http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 http://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
 #EXTINF:-1 tvg-name="CMG大湾区之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190830/1567159925260.png" radio="true",CMG大湾区之声
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1 tvg-name="CNR HIT FM" tvg-logo="https://pic.qingting.fm/2015/0116/20150116191333105.jpg" radio="true",CNR HIT FM
+#EXTINF:-1 tvg-name="CRI HIT FM" tvg-logo="https://pic.qingting.fm/2015/0116/20150116191333105.jpg" radio="true",CRI HIT FM
 https://lhttp.qingting.fm/live/1007/64k.mp3
 #EXTINF:-1 tvg-name="青苹果音乐台" tvg-logo="https://pic.qingting.fm/2014/0330/20140330112927104.jpg" radio="true",青苹果音乐台
 https://lhttp.qingting.fm/live/4576/64k.mp3
