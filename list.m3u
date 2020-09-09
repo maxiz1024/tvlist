@@ -578,7 +578,7 @@ http://szdl.3322.org:8888/rtp/233.50.201.239:5140
 http://szdl.3322.org:8888/rtp/233.50.201.232:5140
 #EXTINF:-1 tvg-id="" tvg-name="高清影视环球电影" tvg-logo="" group-title="网络电视",高清影视环球电影
 http://szdl.3322.org:8888/rtp/233.50.201.231:5140
-#EXTINF:-1 tvg-id="6650" tvg-name="高清影视欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="网络电视",高清影视欧美影院
+#EXTINF:-1 tvg-id="" tvg-name="高清影视欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="网络电视",高清影视欧美影院
 http://szdl.3322.org:8888/rtp/233.50.201.230:5140
 #EXTINF:-1 tvg-id="" tvg-name="高清影视华语影院" tvg-logo="" group-title="网络电视",高清影视华语影院
 http://szdl.3322.org:8888/rtp/233.50.201.240:5140
