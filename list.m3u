@@ -651,11 +651,9 @@ http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 tvg-name="CRI南海之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg" radio="true",CRI南海之声
 http://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
-#EXTINF:-1 tvg-name="CRI HIT FM" tvg-logo="https://pic.qingting.fm/2015/0116/20150116191333105.jpg" radio="true",CRI HIT FM
-https://lhttp.qingting.fm/live/1007/64k.mp3
 #EXTINF:-1 tvg-name="青苹果音乐台" tvg-logo="https://pic.qingting.fm/2014/0330/20140330112927104.jpg" radio="true",青苹果音乐台
 https://lhttp.qingting.fm/live/4576/64k.mp3
-#EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://pic.qingting.fm/2019/1009/20191009113935.jpeg",清晨音乐台
+#EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://pic.qingting.fm/2019/1009/20191009113935.jpeg" radio="true",清晨音乐台
 https://lhttp.qingting.fm/live/4915/64k.mp3
 #EXTINF:-1 tvg-name="AsiaFM 亚洲音乐台" tvg-logo="https://pic.qingting.fm/2019/0304/2019030413223021.jpg" radio="true",AsiaFM 亚洲音乐台
 https://lhttp.qingting.fm/live/4581/64k.mp3
