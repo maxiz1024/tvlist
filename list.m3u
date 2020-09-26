@@ -2,19 +2,15 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225819/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
-http://39.135.140.226:6410/PLTV/88888888/224/3221225792/2/index.m3u8?fmt=ts2hls
+http://39.135.138.59:18890/PLTV/88888910/224/3221225792/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4america.jpg" group-title="央视",CCTV4美洲
-http://cctvalih5ca.v.myalicdn.com/live/cctvamerica_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4europe.jpg" group-title="央视",CCTV4欧洲
-http://cctvalih5ca.v.myalicdn.com/live/cctveurope_2/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225842/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225794/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://39.135.140.226:6410/PLTV/88888888/224/3221225845/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
