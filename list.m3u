@@ -18,21 +18,21 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225821/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225846/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225822/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225823/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225824/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://39.130.215.158:6610/gitv_live/G_CGTN-HD/G_CGTV-HD.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTN记录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN记录
@@ -46,15 +46,15 @@ http://39.135.140.226:6410/PLTV/88888888/224/3221225515/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视",中央新影老故事
 http://39.135.140.226:6410/PLTV/88888888/224/3221225517/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视",CCTV女性时尚
-http://39.135.140.226:6410/PLTV/88888888/224/3221225814/2/index.m3u8?fmt=ts2hls
+http://39.135.138.59:18890/PLTV/88888910/224/3221225814/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="CETV1" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv1.jpg" group-title="其他",CETV1
-http://39.130.206.132:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225865/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="CETV2" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv2.jpg" group-title="其他",CETV2
 http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="CETV3" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv3.jpg" group-title="其他",CETV3
 http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetv4.jpg" group-title="其他",CETV4
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CETV早期教育" tvg-logo="http://www.tvyan.com/uploads/dianshi/cetvzj.jpg" group-title="其他",CETV早期教育
 http://39.135.140.226:6410/PLTV/88888888/224/3221225513/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
