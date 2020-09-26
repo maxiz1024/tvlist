@@ -582,7 +582,8 @@ http://szdl.3322.org:8888/rtp/233.50.201.240:5140
 http://124.229.36.68:4022/udp/239.76.252.217:9000
 #EXTINF:-1 tvg-id="" tvg-name="高清影视邵氏电影" tvg-logo="" group-title="网络电视",高清影视邵氏电影
 http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="高清影视海看大片" tvg-logo="" group-title="网络电视",高清影视海看大片
+#EXTINF:-1 tvg-id="" tvg-name="开心影院" tvg-logo="" group-title="网络电视",开心影院
+http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",台湾TVBS新闻★
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",台湾东森财经新闻★
