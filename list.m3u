@@ -548,39 +548,39 @@ http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/livecom_zh.m3u8
 
 #广播#
-#EXTINF:-1 tvg-name="CNR中国之声" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025486781.jpg" radio="true",CNR中国之声
+#EXTINF:-1 tvg-name="CNR中国之声" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025486781.jpg" group-title="广播" radio="true",CNR中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 tvg-name="CNR经济之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png" radio="true",CNR经济之声
+#EXTINF:-1 tvg-name="CNR经济之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png" group-title="广播" radio="true",CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 tvg-name="CNR音乐之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" radio="true",CNR音乐之声
+#EXTINF:-1 tvg-name="CNR音乐之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" group-title="广播" radio="true",CNR音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 tvg-name="CNR经典音乐广播" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png" radio="true",CNR经典音乐广播
+#EXTINF:-1 tvg-name="CNR经典音乐广播" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png" group-title="广播" radio="true",CNR经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-name="CNR中华之声" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025614670.jpg" radio="true",CNR中华之声
+#EXTINF:-1 tvg-name="CNR中华之声" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025614670.jpg" group-title="广播" radio="true",CNR中华之声
 http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 tvg-name="CNR中国乡村之声" tvg-logo="http://www.radio.cn/img/default/2015/1/19/1421636782910.jpg" radio="true",CNR中国乡村之声
+#EXTINF:-1 tvg-name="CNR中国乡村之声" tvg-logo="http://www.radio.cn/img/default/2015/1/19/1421636782910.jpg" group-title="广播" radio="true",CNR中国乡村之声
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 tvg-name="CNR文艺之声" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025674178.jpg" radio="true",CNR文艺之声
+#EXTINF:-1 tvg-name="CNR文艺之声" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025674178.jpg" group-title="广播" radio="true",CNR文艺之声
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 tvg-name="CNR阅读之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191015/1571132054820.png" radio="true",CNR阅读之声
+#EXTINF:-1 tvg-name="CNR阅读之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191015/1571132054820.png" group-title="广播" radio="true",CNR阅读之声
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1 tvg-name="CMG大湾区之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190830/1567159925260.png" radio="true",CMG大湾区之声
+#EXTINF:-1 tvg-name="CMG大湾区之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190830/1567159925260.png" group-title="广播" radio="true",CMG大湾区之声
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1 tvg-name="CRI南海之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg" radio="true",CRI南海之声
+#EXTINF:-1 tvg-name="CRI南海之声" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg" group-title="广播" radio="true",CRI南海之声
 http://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
-#EXTINF:-1 tvg-name="青苹果音乐台" tvg-logo="https://pic.qingting.fm/2014/0330/20140330112927104.jpg" radio="true",青苹果音乐台
+#EXTINF:-1 tvg-name="青苹果音乐台" tvg-logo="https://pic.qingting.fm/2014/0330/20140330112927104.jpg" group-title="广播" radio="true",青苹果音乐台
 https://lhttp.qingting.fm/live/4576/64k.mp3
-#EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://pic.qingting.fm/2019/1009/20191009113935.jpeg" radio="true",清晨音乐台
+#EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://pic.qingting.fm/2019/1009/20191009113935.jpeg" group-title="广播" radio="true",清晨音乐台
 https://lhttp.qingting.fm/live/4915/64k.mp3
-#EXTINF:-1 tvg-name="AsiaFM 亚洲音乐台" tvg-logo="https://pic.qingting.fm/2019/0304/2019030413223021.jpg" radio="true",AsiaFM 亚洲音乐台
+#EXTINF:-1 tvg-name="AsiaFM 亚洲音乐台" tvg-logo="https://pic.qingting.fm/2019/0304/2019030413223021.jpg" group-title="广播" radio="true",AsiaFM 亚洲音乐台
 https://lhttp.qingting.fm/live/4581/64k.mp3
-#EXTINF:-1 tvg-name="AsiaFM 亚洲天空台" tvg-logo="https://pic.qingting.fm/2020/0410/20200410031019.jpeg" radio="true",AsiaFM 亚洲天空台
+#EXTINF:-1 tvg-name="AsiaFM 亚洲天空台" tvg-logo="https://pic.qingting.fm/2020/0410/20200410031019.jpeg" group-title="广播" radio="true",AsiaFM 亚洲天空台
 https://lhttp.qingting.fm/live/20071/64k.mp3
-#EXTINF:-1 tvg-name="AsiaFM HD音乐台" tvg-logo="https://pic.qingting.fm/2015/0909/20150909150229198.jpg" radio="true",AsiaFM HD音乐台
+#EXTINF:-1 tvg-name="AsiaFM HD音乐台" tvg-logo="https://pic.qingting.fm/2015/0909/20150909150229198.jpg" group-title="广播" radio="true",AsiaFM HD音乐台
 https://lhttp.qingting.fm/live/5022405/64k.mp3
-#EXTINF:-1 tvg-name="长沙品味音乐广播" tvg-logo="http://pic.qingting.fm/2015/0914/20150914154053857.png" radio="true",长沙品味音乐广播
+#EXTINF:-1 tvg-name="长沙品味音乐广播" tvg-logo="http://pic.qingting.fm/2015/0914/20150914154053857.png" group-title="广播" radio="true",长沙品味音乐广播
 https://lhttp.qingting.fm/live/4930/64k.mp3
-#EXTINF:-1 tvg-name="长沙城市之声" tvg-logo="http://img4.allchina.cn/FCK/userupfile/images/2019817200196208973.jpg" radio="true",长沙城市之声
+#EXTINF:-1 tvg-name="长沙城市之声" tvg-logo="http://img4.allchina.cn/FCK/userupfile/images/2019817200196208973.jpg" group-title="广播" radio="true",长沙城市之声
 https://lhttp.qingting.fm/live/4237/64k.mp3
-#EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="http://pic.qingting.fm/2020/0323/20200323125227.jpeg" radio="true",长沙音乐广播
+#EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="http://pic.qingting.fm/2020/0323/20200323125227.jpeg" group-title="广播" radio="true",长沙音乐广播
 https://lhttp.qingting.fm/live/20847/64k.mp3
