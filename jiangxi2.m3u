@@ -25,21 +25,21 @@ http://39.135.140.226:6410/PLTV/88888888/224/3221225564/2/index.m3u8?fmt=ts2hls
 http://39.135.140.226:6410/PLTV/88888888/224/3221225910/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://39.135.140.226:6410/PLTV/88888888/224/3221225747/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="港澳台",CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视",CGTN DOCUMENTARY
 http://39.135.140.226:6410/PLTV/88888888/224/3221225645/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中央新影中学生
+#EXTINF:-1 tvg-id="" tvg-name="中学生" tvg-logo="https://zuiai.tv/zb_users/upload/2021/2/2021021881742569_mini.jpg" group-title="其他",中央新影中学生
 http://39.135.140.226:6410/PLTV/88888888/224/3221225515/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",中央新影老故事
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="其他",中央新影老故事
 http://39.135.140.226:6410/PLTV/88888888/224/3221225517/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-1
+#EXTINF:-1 tvg-id="73" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="其他",中国教育1台
 http://39.135.140.226:6410/PLTV/88888888/224/3221225563/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-1
+#EXTINF:-1 tvg-id="73" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="其他",中国教育1台
 http://39.135.140.226:6410/PLTV/88888888/224/3221225661/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-4
+#EXTINF:-1 tvg-id="7245" tvg-name="教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="其他",中国教育4台
 http://39.135.140.226:6410/PLTV/88888888/224/3221225937/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-4
+#EXTINF:-1 tvg-id="7245" tvg-name="教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="其他",中国教育4台
 http://39.135.140.226:6410/PLTV/88888888/224/3221225969/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV早期教育
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="其他",CETV早期教育
 http://39.135.140.226:6410/PLTV/88888888/224/3221225513/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://39.135.140.226:6410/PLTV/88888888/224/3221225555/2/index.m3u8?fmt=ts2hls
@@ -115,45 +115,45 @@ http://39.135.140.226:6410/PLTV/88888888/224/3221225530/2/index.m3u8?fmt=ts2hls
 http://39.135.140.226:6410/PLTV/88888888/224/3221226201/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
 http://39.135.140.226:6410/PLTV/88888888/224/3221226203/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",农林卫视
+#EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="http://www.1zhengji.com/zhengjilogo/201909270941/116183270915393.jpg" group-title="卫视",农林卫视
 http://39.135.140.226:6410/PLTV/88888888/224/3221226204/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="其他",金鹰纪实
 http://39.135.140.226:6410/PLTV/88888888/224/3221226198/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="地方",中华美食
+#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="其他",中华美食
 http://39.135.140.226:6410/PLTV/88888888/224/3221225924/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="地方",重庆汽摩
+#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="其他",重庆汽摩
 http://39.135.140.226:6410/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="地方",河南武术世界
+#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="其他",河南武术世界
 http://39.135.140.226:6410/PLTV/88888888/224/3221225508/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",河南梨园频道
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="其他",河南梨园频道
 http://39.135.140.226:6410/PLTV/88888888/224/3221225581/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江苏靓装
+#EXTINF:-1 tvg-id="" tvg-name="江苏靓装" tvg-logo="https://p1.ssl.qhimg.com/dmsmty/1080_950_/t01e92951ea2f76bb32.png" group-title="其他",江苏靓装
 http://39.135.140.226:6410/PLTV/88888888/224/3221225509/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育卫视
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://p1-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/9b41d28e8a454792bc14fe78461c537a~tplv-mlhdmxsy5m-q75:0:0.image" group-title="卫视",山东教育卫视
 http://39.135.140.226:6410/PLTV/88888888/224/3221225719/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="其他",金鹰卡通
 http://39.135.140.226:6410/PLTV/88888888/224/3221225554/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="其他",卡酷少儿
 http://39.135.140.226:6410/PLTV/88888888/224/3221225677/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="其他",哈哈炫动
 http://39.135.140.226:6410/PLTV/88888888/224/3221225560/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="上海",哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="其他",哈哈炫动
 http://39.135.140.226:6410/PLTV/88888888/224/3221225720/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="其他",嘉佳卡通
 http://39.135.140.226:6410/PLTV/88888888/224/3221226193/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="其他",优漫卡通
 http://39.135.140.226:6410/PLTV/88888888/224/3221225665/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西2 都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="其他",江西2 都市
 http://39.135.140.226:6410/PLTV/88888888/224/3221225584/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西3 经济生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="其他",江西3 经济生活
 http://39.135.140.226:6410/PLTV/88888888/224/3221225580/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西4 影视旅游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="其他",江西4 影视旅游
 http://39.135.140.226:6410/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西5 公共农业
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="其他",江西5 公共农业
 http://39.135.140.226:6410/PLTV/88888888/224/3221225578/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西6 少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="其他",江西6 少儿
 http://39.135.140.226:6410/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江西7 新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="其他",江西7 新闻
 http://39.135.140.226:6410/PLTV/88888888/224/3221225576/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225618/2/index.m3u8?fmt=ts2hls
@@ -167,7 +167,7 @@ http://39.135.140.226:6410/PLTV/88888888/224/3221225619/2/index.m3u8?fmt=ts2hls
 http://39.135.140.226:6410/PLTV/88888888/224/3221225647/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225621/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV-5 FHD
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225650/2/index.m3u8?fmt=ts2hls
@@ -229,89 +229,89 @@ http://39.135.140.226:6410/PLTV/88888888/224/3221225735/2/index.m3u8?fmt=ts2hls
 http://39.135.140.226:6410/PLTV/88888888/224/3221225736/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225740/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文 FHD
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="其他",纪实人文 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225654/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",冬奥纪实 FHD
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="其他",冬奥纪实 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225675/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEOTV FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",NEOTV FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225716/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电竞 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettvpro.live/uploads/allimg/19/1-1Z50R155360-L.jpg" group-title="其他",黑莓电竞 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225653/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电竞 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettvpro.live/uploads/allimg/19/1-1Z50R155360-L.jpg" group-title="其他",黑莓电竞 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225749/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电竞 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettvpro.live/uploads/allimg/19/1-1Z50R155360-L.jpg" group-title="其他",黑莓电竞 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225750/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电竞 FHD
-http://39.135.140.226:6410/PLTV/88888888/224/3221225764/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgsa.baidu.com/forum/w%3D580/sign=73d41c5a2e3fb80e0cd161df06d02ffb/68c8ba315c6034a82ce2a8eac413495408237642.jpg" group-title="其他",黑莓动画 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225672/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="其他",黑莓电影 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225764/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="其他",黑莓电影 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225718/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="其他",黑莓电影 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225769/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 精品记录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 精品记录
 http://39.135.140.226:6410/PLTV/88888888/224/3221225710/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 超级综艺 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 超级综艺 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225620/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 超级体育 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 超级体育 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225622/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 超级体育 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 超级体育 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225648/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 超级电影 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 超级电影 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225623/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 超级电视剧 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 超级电视剧 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225625/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 武博世界 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 武博世界 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225656/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 中国功夫 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 中国功夫 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225660/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 怡伴健康 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 怡伴健康 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225666/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 军旅剧场 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 军旅剧场 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225669/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 农业致富 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 农业致富 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225670/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 动作电影 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 动作电影 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225671/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 辣妈辣婆 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 辣妈辣婆 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225708/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 精品体育 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 精品体育 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225709/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 金牌综艺 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 金牌综艺 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225711/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 未知电视剧 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 未知电视剧 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225712/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 家庭剧场 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 家庭剧场 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225713/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 精品大剧 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 精品大剧 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225714/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 古装剧场 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 古装剧场 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225678/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 炫舞未来 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 炫舞未来 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225707/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 爱情喜剧 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 爱情喜剧 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225748/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 惊悚悬疑 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 惊悚悬疑 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225717/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 军事评论 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 军事评论 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225757/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 东北热剧 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 东北热剧 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221226202/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 欢乐剧场 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 欢乐剧场 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221226210/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 江西 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 江西 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221225979/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 山东 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 山东 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221226184/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 广东 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 广东 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221226185/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 四川 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 四川 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221226187/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 吉林 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 吉林 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221226189/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 黑龙江 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 黑龙江 FHD
 http://39.135.140.226:6410/PLTV/88888888/224/3221226192/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 广西 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 广西 HD
 http://39.135.140.226:6410/PLTV/88888888/224/3221226186/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NEWTV 云南 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/de/NEWTV.PNG/330px-NEWTV.PNG" group-title="其他",NEWTV 云南 HD
 http://39.135.140.226:6410/PLTV/88888888/224/3221226188/2/index.m3u8?fmt=ts2hls
