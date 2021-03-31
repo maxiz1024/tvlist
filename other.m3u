@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-id="73" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="其他",中国教育1台
+http://39.135.140.226:6410/PLTV/88888888/224/3221225661/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="7245" tvg-name="教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="其他",中国教育4台
+http://39.135.140.226:6410/PLTV/88888888/224/3221225969/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="其他",哈哈炫动
+http://39.135.140.226:6410/PLTV/88888888/224/3221225720/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225762/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225918/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225908/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225746/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",NEOTV FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225716/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettvpro.live/uploads/allimg/19/1-1Z50R155360-L.jpg" group-title="其他",黑莓电竞 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225749/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettvpro.live/uploads/allimg/19/1-1Z50R155360-L.jpg" group-title="其他",黑莓电竞 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225750/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="其他",黑莓电影 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225718/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="其他",黑莓电影 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225769/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.videochina.org.cn/2018/0607/1528333651830.jpg" group-title="其他",NEWTV 超级体育 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225648/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://upload.videochina.org.cn/2018/0607/1528333651830.jpg" group-title="其他",NEWTV 未知电视剧 FHD
+http://39.135.140.226:6410/PLTV/88888888/224/3221225712/2/index.m3u8?fmt=ts2hls
